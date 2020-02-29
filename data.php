@@ -15,6 +15,7 @@
          <th>username</th>
          <th>email</th>
          <th>Action</th>
+         <th>address</th>
         </tr>
         <?php 
             $sql="SELECT * FROM users";
